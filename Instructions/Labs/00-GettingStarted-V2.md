@@ -62,6 +62,10 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
       ![Enter Your Password](../Labs/images/sc900-image-2.png)
+
+4. If **Action required** pop-up window appears, click on **Ask later**.
+
+   ![Ask Later](../Labs/images/ask-later-01.png)
  
 4. If prompted to stay signed in, you can click "No."
  
